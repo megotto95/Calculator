@@ -1,0 +1,9 @@
+.display {
+    border: solid black;
+    width: 200px;
+    height: 40px;
+}
+
+.highlight {
+    background-color: blue;
+}
